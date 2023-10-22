@@ -79,8 +79,8 @@
                font-family:Arial, Helvetica, sans-serif;" >
     </div>
  
-       <div img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVgcFDFlolUnseARIP-bitwt5CSIaZY6rNg&usqp=CAU" alt="cart" style="width:100px ;" >
-
+       <div style="text-align: start;">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVgcFDFlolUnseARIP-bitwt5CSIaZY6rNg&usqp=CAU" width="100px" align ="left" >
        </div>
 
        <div style="justify-content:center;
